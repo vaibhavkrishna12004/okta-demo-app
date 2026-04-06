@@ -61,7 +61,7 @@ Authentication Flow (OIDC)
 
 
 Project Report
-📄 [Download Report](./Okta.pdf)
+📄 [Download Report] https://github.com/vaibhavkrishna12004/okta-demo-app/blob/be12308ef44901f13da9e1bab4bf7211efb87134/OKTA%20.pdf
 
 
 
